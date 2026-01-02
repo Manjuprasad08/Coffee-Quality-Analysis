@@ -1,4 +1,4 @@
-# Coffee Quality Analysis
+# Coffee_Quality_Analysis_Power_BI_Project 
 
 ## Objective
 To analyze coffee quality data and identify factors affecting coffee scores.
